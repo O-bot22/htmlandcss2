@@ -1,0 +1,15 @@
+nav {
+    text-align: center;
+    background-color: lightcoral;
+}
+
+list {
+    list-style-type: none;
+}
+nav ul, nav li {
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a:hover {
+    color: lightgray;
+}
